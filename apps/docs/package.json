@@ -117,7 +117,7 @@
     "unist-util-visit": "^4.1.2",
     "uuid": "^9.0.1",
     "valtio": "catalog:",
-    "yaml": "^2.4.5",
+    "yaml": "^2.8.3",
     "zod": "^3.25.76"
   },
   "devDependencies": {
